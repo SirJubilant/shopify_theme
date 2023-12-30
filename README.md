@@ -1,7 +1,8 @@
 # This is a projects that was developed upon just HTML, CSS, and Vanila Javascript to build an accesible and responsive shopify theme.
 
 ## The challenge
-The challenge here is to build a merchant onboarding experience to carter for the three of the most popular types of Shopify merchants:
+
+The challenge from Franz Kati of [crushing it tech](https://www.crushingit.tech/hackathon/challenge) here is to build a merchant onboarding experience to carter for the three of the most popular types of Shopify merchants:
 
 + Mouse users
 + Screen readers 
@@ -20,8 +21,8 @@ aria-controlledby;
 role;
 tabindex;
 ```
-and a whole lot more that can be found [here] (https://developer.mozilla.org/en-US/docs/Accessibility/ARIA/Atrributes)
+and a whole lot more that can be found [here](https://developer.mozilla.org/en-US/docs/Accessibility/ARIA/Atrributes)
 
 
-![Screenshot of the desktop layout] (.\desktopShopify.png)
-![Screenshot of the mobile layout] (.\shopifyMobile.png)
+![Screenshot of the desktop layout](./desktopShopify.png)
+![Screenshot of the mobile layout](./shopifyMobile.png)
