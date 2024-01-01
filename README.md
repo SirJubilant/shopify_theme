@@ -26,3 +26,5 @@ and a whole lot more that can be found [here](https://developer.mozilla.org/en-U
 
 ![Screenshot of the desktop layout](./desktopShopify.png)
 ![Screenshot of the mobile layout](./shopifyMobile.png)
+
+view the live site [here](https://accessibleshopifytheme.netlify.app)
